@@ -7,6 +7,6 @@ I focus on:
 - Application security and vulnerability research
 - Cloud-native and agentic system security
 
-M.Sc. in Cyber Security · TSE Certified Penetration Testing Expert
+M.Sc. in Cyber Security · TSE Certified Penetration Testing Expert · OSCP · eWPTX
 
-[LinkedIn](https://linkedin.com/in/ozlem-balci) · [Twitter](https://twitter.com/ozlembalcxx)
+[LinkedIn](https://linkedin.com/in/ozlem-balci)
